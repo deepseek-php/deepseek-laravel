@@ -17,6 +17,8 @@ Laravel wrapper for **[Deepseek PHP client](https://github.com/deepseek-php/deep
 
 ## Installation
 
+> **Requires [PHP 8.1+](https://php.net/releases/)**
+
 You can install the package via composer:
 
 ```bash
