@@ -2,7 +2,9 @@
 
 namespace DeepSeek\DeepseekLaravel;
 
+use DeepSeek\DeepSeekClient;
 use Illuminate\Support\Facades\Facade;
+
 
 class DeepseekLaravelFacade extends Facade
 {
@@ -13,6 +15,6 @@ class DeepseekLaravelFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'deepseek-laravel';
+        return DeepSeekClient::class;
     }
 }
