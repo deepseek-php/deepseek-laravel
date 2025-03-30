@@ -1,5 +1,5 @@
 {
-    "name": "deepseek-php/deepseek-laravel",
+    "name": "deepseek-laravel/deepseek-laravel12",
     "description": "A seamless Laravel integration for the Deepseek PHP client, enabling effortless interaction with the Deepseek API in your Laravel applications.",
     "keywords": [
         "deepseek-php",
