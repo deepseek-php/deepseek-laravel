@@ -1,3 +1,5 @@
+<img src="https://github.com/chamnan-dev/deepseek-laravel/blob/master/public/images/laravel%20deepseek%20ai%20banner.jpg" alt="Laravel deepseek" >
+
 # Deepseek Laravel
 
 Laravel wrapper for **[Deepseek PHP client](https://github.com/deepseek-php/deepseek-php-client)** to seamless [deepseek AI](https://www.deepseek.com) API integration with Laravel applications.
